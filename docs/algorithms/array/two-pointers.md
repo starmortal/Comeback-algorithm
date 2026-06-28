@@ -98,5 +98,3 @@ function findMaxAverage(nums, k) {
 - LeetCode 26: 删除有序数组中的重复项
 - LeetCode 283: 移动零
 - LeetCode 11: 盛最多水的容器
-
-下一节：[滑动窗口](./sliding-window.md)
